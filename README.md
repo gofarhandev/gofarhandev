@@ -1,29 +1,40 @@
 # Hi, I'm MD Farhan Sadik 👋
 
-I'm a **Fullstack Web Developer** from **Bangladesh** with a passion for building **modern, responsive, and interactive web applications**. I love to turn ideas into reality using **React, Node.js, and MongoDB**.
+I'm a **Fullstack Web Developer** from **Bangladesh** with a passion for building **modern, responsive, and interactive web applications**.  
+I love turning ideas into reality using **React, Node.js, and MongoDB**.  
 
 ---
 
 ## 🛠️ Skills
 
 ### Frontend
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** React, Redux, Tailwind CSS, Bootstrap, GSAP (Animation)
-- **Tools:** Figma, VS Code, Chrome DevTools
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
 
 ### Backend
-- **Languages:** JavaScript (Node.js)
-- **Frameworks:** Express.js
-- **Database:** MongoDB, Mongoose
-- **Authentication:** JWT, Bcrypt
-- **Others:** REST API, Axios, Payment Gateway Integration
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bcrypt-003366?style=for-the-badge&logoColor=white" />
+</div>
 
-### Dev Tools & Platforms
-- Git & GitHub
-- Postman
-- VS Code
-- Netlify, Render, Vercel (Deployment)
-- ImageKit & Cloud Storage
+### Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
 
@@ -31,30 +42,49 @@ I'm a **Fullstack Web Developer** from **Bangladesh** with a passion for buildin
 
 ### 1. [GPT-0.09 ChatGPT Website](https://gpt-0-09.onrender.com/)
 A **fullstack AI ChatGPT website** built with Node.js, Express, React, and MongoDB.  
-Features include real-time chat interface, conversation history, and responsive design.
+- Real-time chat interface  
+- Conversation history management  
+- Fully responsive design  
 
 ### 2. [Havmor Hackathon Website](https://havmor.vercel.app/)
-A **fullstack hackathon project** showcasing modern UI/UX, interactive components, and user-friendly experience. Built with React, Node.js, and Firebase for backend integration.
+A **fullstack hackathon project** with modern UI/UX and interactive components.  
+- React frontend + Firebase backend  
+- Responsive and fast performance  
+- Interactive user experience  
 
 ### 3. [Portfolio Website](https://codexfoli0.vercel.app/)
-My **personal professional portfolio** highlighting skills, projects, and frontend expertise with modern animations and responsive design.
+My **personal professional portfolio** showcasing skills, projects, and frontend expertise.  
+- Modern animations using GSAP  
+- Fully responsive design  
+- Highlights personal and professional achievements  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gofarhandev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gofarhandev&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gofarhandev&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gofarhandev&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/gofarhandev)  
-- [Twitter](https://twitter.com/gofarhandev)  
-- [Portfolio](https://codexfoli0.vercel.app/)  
-- [Email](mailto:farhansadik0760@gmail.com)  
+<div>
+  <a href="https://linkedin.com/in/gofarhandev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/gofarhandev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://codexfoli0.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=website&logoColor=white" />
+  </a>
+  <a href="mailto:farhansadik0760@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -62,7 +92,14 @@ My **personal professional portfolio** highlighting skills, projects, and fronte
 - 🌍 Exploring web development trends & best practices  
 - ☕ Coffee enthusiast & problem solver  
 - 🕌 Hafez of the Quran  
+- 💻 Always learning and building new projects  
 
 ---
 
+## 📝 Quote
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+## 🖥️ Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/gofarhandev/count.svg)
